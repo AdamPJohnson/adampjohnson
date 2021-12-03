@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Adam Johnson (he/him)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-johnson-0218641ba/)
 
