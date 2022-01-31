@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-johnson-0218641ba/)
 
 ### About Me
-
+A passionate and quick-learning software engineer who is always expanding my toolset. When I’m not working, I code algorithmic music, build furniture, and play jazz piano.
 ***
 
 
